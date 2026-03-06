@@ -92,7 +92,7 @@ a{
 .hero{
   position: relative;
   min-height: 940px;
-  background-image: url("images/hero-bg.jpg");
+background-image: url("hero-bg.jpg");
   background-size: cover;
   background-position: center center;
   overflow: hidden;
@@ -271,7 +271,7 @@ a{
 /* PROCESS */
 .process-section{
   position: relative;
-  background-image: url("images/process-bg.jpg");
+background-image: url("process-bg.jpg");
   background-size: cover;
   background-position: center;
   padding: 74px 0 86px;
